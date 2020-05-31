@@ -23,4 +23,5 @@ bash crt.sh example.com
 ```
   
 # Credits
-- nahamsec
+- [Nahamsec](https://twitter.com/nahamsec)
+- [Vishnugadupudi](https://twitter.com/vishnugadupudi)
